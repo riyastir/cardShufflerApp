@@ -145,7 +145,7 @@ export default function CardShuffler() {
 					{i+1}
 				</Avatar>
 				<h6 style={{float:'left'}}>{i < values.number ? `Player  ${i+1} - `: "Excess Cards - "}{cards+','.replace(/,\s*$/, "")}</h6>
-				<div id="cards" className="playingCards fourColours rotateHand" >
+				<div id="cards" className="playingCards fourColours rotateHand faceImages" >
 				<div key={i}><ul className="hand">
 						{cards.map((card,j)=>(
 						<li key={j}>

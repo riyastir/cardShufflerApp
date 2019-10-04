@@ -3,7 +3,23 @@ React based App for Playing Card Shuffler. ReactJs, Javascript and CSS
 
 Demo Version of this Application Hosted [here](https://card.riyas.pro).
 
+3rd Party Plugin used : CSS Playing Cards [CSS Playing Cards](http://selfthinker.github.io/CSS-Playing-Cards/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To use in Local. Please follow the steps
+
+### Step 1
+
+Clone the git `git Clone https://github.com/riyastir/cardShufflerApp.git`
+
+### Step 2
+Navigate to the project directory `cd cardShufflerApp`
+
+### Step 3
+Install the Dependencies  `npm update`
+
+Once you finish with this. You can able to run the project locally.
 
 ## Available Scripts
 
