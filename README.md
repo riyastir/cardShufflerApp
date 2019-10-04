@@ -1,6 +1,8 @@
 # cardShufflerApp
 React based App for Playing Card Shuffler. ReactJs, Javascript and CSS
 
+Demo Version of this Application Hosted [here](https://card.riyas.pro).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
